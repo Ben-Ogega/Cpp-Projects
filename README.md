@@ -1,5 +1,6 @@
 ﻿## Hello World Program
-DescriptionThis is a simple C++ program that prints 
+Description
+This is a simple C++ program that prints 
 Hello World! 
 to the console.
 ## How to compile and run
