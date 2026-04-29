@@ -65,7 +65,7 @@ int main(int argc, const char** argv) {
         cin >> continuePlaying;
 
         if (continuePlaying != 'y' && continuePlaying != 'Y') {
-            cout << "Exiting program. Goodbye!"<< " \u1F600" << endl;
+            std::cout << "Exiting program. Goodbye!"<< "😎😎😋" << endl;
             break;  // Exit the loop if user doesn't want to continue
         }
 

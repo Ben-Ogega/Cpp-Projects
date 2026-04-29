@@ -1,0 +1,23 @@
+# Ignore the VS Code settings folder
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore all compiled executables
+*.exe
+*.out
+*.app
+*.o
+*.so
+
+# Ignore local text files if they contain sensitive data
+accounts.txt
+# Ignore log files
+*.log   
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+# Ignore virtual environment folders
+venv/
+env/    
